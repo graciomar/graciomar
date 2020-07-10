@@ -8,6 +8,8 @@
 
 - 📫 I live From Bahia,Brazil
 
+- 😄 Skills: Laravel,MYSQl,HTML5, BOOTSTRAP4
+
 <!--
 **graciomar/graciomar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
