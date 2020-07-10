@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning Vue,React,Flutter
 
-- 📫 How to reach me: ...
+- 📫 I live From Bahia,Brazil
 
 <!--
 **graciomar/graciomar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
